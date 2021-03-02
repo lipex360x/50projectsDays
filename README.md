@@ -1,5 +1,5 @@
-<h2 align="center">XXXXXXXXXXXXXXXXXXX</h2>
-<p align="center">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+<h2 align="center">50 Projects in 50 Days</h2>
+<p align="center">50 quick, unique & fun mini projects in HTML, CSS & JavaScript</p>
 
 ---
 
