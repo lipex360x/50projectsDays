@@ -1,13 +1,14 @@
 import { AppProps } from 'next/app'
 import Head from 'next/head'
 
+import './_app.css'
 import GlobalStyles from 'styles/global'
 
 function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>NextJS Boilerplate</title>
+        <title>50 Projecs in 50 Days</title>
         <link rel="shortcut icon" href="/img/icon-512.png" />
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
