@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "deploy": "yarn build && next export",
     "generate": "yarn plop --plopfile generators/plopfile.js"
   },
   "dependencies": {
